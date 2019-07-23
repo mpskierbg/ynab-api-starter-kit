@@ -113,7 +113,7 @@ export default {
       this.error = null;
       this.budgetId = id;
       this.transactions = [];
-      this.api.transactions.getTransactions(id).then((res) => {
+      this.api.months.getBudgetMonths(id).then((res) => {
         this.transactions = res.data.transactions;
       }).catch((err) => {
         this.error = err.error.detail;
