@@ -7,7 +7,7 @@
     <div class="row">
       <div class="col-12 col-md">
         <small class="text-muted">MADE BY</small>
-        <h5><a href="#">I dont know whose</a></h5>
+        <h5><a href="https://github.com/mpskierbg/ynab-api-starter-kit">MPskierBg</a></h5>
       </div>
     </div>
   </footer>
