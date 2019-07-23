@@ -24,6 +24,6 @@
     "webpack-cli": "^3.3.5",
     "webpack-dev-server": "^3.7.2",
     "xhr": "^2.5.0",
-    "ynab": "^1.13.4"
+    "ynab": "^1.14.0"
   }
 }
