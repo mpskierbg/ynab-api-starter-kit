@@ -15416,7 +15416,9 @@ var staticRenderFns = [
         _c("div", { staticClass: "col-12 col-md" }, [
           _c("small", { staticClass: "text-muted" }, [_vm._v("MADE BY")]),
           _vm._v(" "),
-          _c("h5", [_c("a", { attrs: { href: "#" } }, [_vm._v("You!")])])
+          _c("h5", [
+            _c("a", { attrs: { href: "#" } }, [_vm._v("I dont know whose")])
+          ])
         ])
       ])
     ])
